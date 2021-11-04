@@ -1,0 +1,13 @@
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\bin\Debug\RadioJavanTool.exe.config
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\bin\Debug\RadioJavanTool.exe
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\bin\Debug\RadioJavanTool.pdb
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.Form1.resources
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.Properties.Resources.resources
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.csproj.GenerateResource.cache
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.exe
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.pdb
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\bin\Debug\Leaf.xNet.dll
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\bin\Debug\ThreadGun.dll
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.csproj.CopyComplete
+C:\Users\mahdi\source\repos\RadioJavanTool\RadioJavanTool\obj\Debug\RadioJavanTool.csproj.AssemblyReference.cache
